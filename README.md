@@ -10,5 +10,5 @@ What is [QSAR/QSPR ?](https://en.wikipedia.org/wiki/Quantitative_structure%E2%80
 
 
 ### Contents
-* extra-o-matic: extract .tsv files from [QSARdata R package] (http://qsardata.r-forge.r-project.org/QSARdata/QSARdata_Package.html)
+* extra-o-matic: extract .tsv files from QSARdata R package (http://qsardata.r-forge.r-project.org/QSARdata/QSARdata_Package.html)
 
