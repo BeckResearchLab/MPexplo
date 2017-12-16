@@ -1,4 +1,4 @@
-### ML models predicting molecular properties
+## ML models predicting molecular properties
 * Machine Learning methods to predict physicochemical properties of molecules, i.e., melting points and levels of permeabilities of chemical compounds through Caco 2 Cell line during initial ADME profiling.
 
 * QSAR/QSPR datasets used for the predictions.
